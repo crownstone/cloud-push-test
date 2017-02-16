@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "632705971209",
+    "firebase_url": "https://testapp-e247c.firebaseio.com",
+    "project_id": "testapp-e247c",
+    "storage_bucket": "testapp-e247c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632705971209:android:f36173e948059ccb",
+        "android_client_info": {
+          "package_name": "gcm.play.android.samples.com.gcmquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632705971209-dfnl3t4oqf90vckn1o0mpcbj163g6m02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDefwy8WjBzMgX6To2QwBpISwCBZaLBppE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632705971209:android:ac695be6455d0c49",
+        "android_client_info": {
+          "package_name": "rocks.crownstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632705971209-dfnl3t4oqf90vckn1o0mpcbj163g6m02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDefwy8WjBzMgX6To2QwBpISwCBZaLBppE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

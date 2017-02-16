@@ -1,0 +1,2 @@
+include ':app', ':gcmsender'
+include ':crownstone-loopback-sdk:loopback-sdk-android'
